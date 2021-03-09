@@ -14,5 +14,5 @@ $ cmake --build .
 
 参考にする際は自己責任でお願いします。
 
-# LICENCE
+# LICENSE
 The source code is licensed MIT.
