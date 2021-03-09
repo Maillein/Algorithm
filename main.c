@@ -9,6 +9,8 @@ void test_sort(void);
 void test_dllist(void);
 
 int main(void) {
+    test_heap();
+    test_sort();
     test_dllist();
     return 0;
 }
